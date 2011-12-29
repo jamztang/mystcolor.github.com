@@ -13,10 +13,11 @@
 body {
     font: 12px/170% 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;
     color: #666666;     
-    margin: 0; 
+    margin: 0 auto; 
     padding: 0; 
     background: #FFF url(../images/bg.gif) repeat-x;
-    text-align: center;
+    text-align: left;
+    width: 800px;
 }
 
 /* Links */
@@ -49,8 +50,8 @@ h3 { font-size: 180%; font-weight: normal; letter-spacing: -0.5px; padding-top: 
 h4 { font-size: 140%; }
 /* Lists */
 ul, ol {
-    margin: 10px 20px;
-    padding: 0 20px;
+    margin: 30px 20px;
+    padding: 0 0px;
 }
 ul { list-style: disc; }
 ol { list-style: decimal; }
@@ -710,4 +711,10 @@ background: #ffdddd;
 
 pre {
 margin: 10px 20px;
+}
+
+/* Added */
+#top_menu li {
+    display:inline-block;
+    margin-right: 3em;
 }
