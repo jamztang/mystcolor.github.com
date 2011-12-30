@@ -718,3 +718,7 @@ margin: 10px 20px;
     display:inline-block;
     margin-right: 3em;
 }
+
+/* Disqus */
+#disqus_thread, .dsq-brlink { margin: 10px 20px; }
+
