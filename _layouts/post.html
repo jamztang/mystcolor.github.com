@@ -13,6 +13,10 @@ layout: default
     {{ content }}
 
 
+{% if page.share %}
+{% include share.html %}
+{% endif %}
+
 {% if page.comments %}
 <div id="comments">
 {% include comments.html %}

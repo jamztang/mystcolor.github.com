@@ -2,6 +2,8 @@
 layout: post
 title: The real benefits on using Facebook/Path liked sidebar navigation in iOS apps
 comments: true
+share: true
+shorten: http://bit.ly/tH2KEQ
 ---
 
 ![Path and Facebook](/images/2012-01-02-the-real-benefits-on-using-facebook-or-path-liked-sidebar-navigation-in-iOS-apps/path_facebook.png)

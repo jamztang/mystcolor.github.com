@@ -714,7 +714,7 @@ margin: 10px 20px;
 }
 
 /* Added */
-#top_menu li {
+#top_menu li, #share li {
     display:inline-block;
     margin-right: 3em;
 }
