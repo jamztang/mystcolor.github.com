@@ -719,6 +719,15 @@ margin: 10px 20px;
     margin-right: 3em;
 }
 
+.post hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 100px;
+}
+
 /* Disqus */
 #comments { 
     margin: 50px 20px 10px 20px;
@@ -730,3 +739,10 @@ margin: 10px 20px;
 	margin: 10px 20px;
 }
 
+/* pagination */
+#post-pagination li, #post-pagination ul, #post-pagination p {
+    display: inline-block;
+}
+#post-pagination {
+    text-align: center;
+}
