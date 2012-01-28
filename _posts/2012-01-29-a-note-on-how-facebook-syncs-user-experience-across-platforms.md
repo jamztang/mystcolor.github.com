@@ -50,7 +50,7 @@ Conclusion
 ----------
 
 
-The above is just the part of the features that the Facebook team offers to their users, there are more like the new [Bigger, better photos][http://www.facebook.com/notes/facebook-mobile/introducing-facebook-for-ipad/240833529299007] on the iPad app, the new [Timeline layout][http://blog.facebook.com/blog.php?post=10150408335607131] available for mobile access, etc.
+The above is just the part of the features that the Facebook team offers to their users, there are more like the new [Bigger, better photos][] on the iPad app, the new [Timeline layout][] available for mobile access, etc.
 
 
 I really appreciate for their work and attempt to unify all user experience, for the same service across different platform, which we could have equally good product no matter where we are.
@@ -74,3 +74,6 @@ James
 [iPhone compatible UIPopoverController implementation bit.ly bundle]:http://bit.ly/ytOgQD
 [iOS Open Source Facebook/Path liked Sidebar Menu implementation]:http://bit.ly/t5XkS2
 [github.com]:http://github.com
+[Bigger, better photos]:http://www.facebook.com/notes/facebook-mobile/introducing-facebook-for-ipad/240833529299007
+[Timeline layout]:http://blog.facebook.com/blog.php?post=10150408335607131
+
