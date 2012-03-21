@@ -14,11 +14,13 @@ tags:
 - cocoa
 - objective-c
 ---
-If you thinks that +[NSString stringWithFormat:] is simply annoying.
+
+
+If you thinks that +\[NSString stringWithFormat:\] is simply annoying.
 
 If you missed the C style string formatter like printf() or NSLog().
 
-[NSString stringWithFormat:@"Why should I type this long?"];
+\[NSString stringWithFormat:@"Why should I type this long?"\];
 
 <script src="https://gist.github.com/1578509.js?file=JTStringAddition.h"> </script>    
 <script src="https://gist.github.com/1578509.js?file=JTStringAddition.m"> </script>

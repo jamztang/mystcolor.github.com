@@ -1,19 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <link rel="shortcut icon" href="/images/favicon.ico" />
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/reset/reset-min.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css">
-    <!-- Commented style sheet rules
-    <link rel="stylesheet" type="text/css" media="print, handheld" href="css/print.css">
-    <link rel="stylesheet" type="text/css" href="css/{{ page.style }}.css" />
-    -->
-    <title>{{ page.title }}</title>
-    {% include google_analytics.html %}
-</head>
-<body>
-    {{ content }}
-
-</body>
-</html>
+---
+theme :
+  name : tom
+{% include JB/setup %}
+{% include themes/tom/default.html %}
