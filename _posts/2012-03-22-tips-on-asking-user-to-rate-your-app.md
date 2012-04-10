@@ -28,7 +28,7 @@ While an app having a good rating on app store helps promotes the number of down
 
 - **Your users know when is the best time for them to give some credits.** Make sure you have an explict button for them to have easy access to the rate system, the official way is just too cumbersome of anyone.
 
-    _[Juhani][] stated some pretty good suggestions on how to gently remind your users to rate your app at [How to Ask Users to Rate Your App?][].
+    _[Juhani][] stated some pretty good suggestions on how to gently remind your users to rate your app at [How to Ask Users to Rate Your App?][]._
 
 
 - **The most important thing - Make your app awesome.**
