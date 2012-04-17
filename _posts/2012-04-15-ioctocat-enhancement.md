@@ -32,6 +32,10 @@ It's __open source__ anyway, I can just patch it :) The code is clean enough for
 Thanks for [Dennis Reimann] for creating this wonderful app, you can find my fork here at [mystcolor / ioctocat][], and please [support][1] it from the App Store!
 
 
+### Update: 16 Apr 2012 ###
+This feature has been merged to the [main repo][dbloete / ioctocat], so I expect everyone would see it in the next version of their app release!
+
+
 James
 
 
