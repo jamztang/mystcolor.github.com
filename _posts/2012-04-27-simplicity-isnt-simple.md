@@ -18,5 +18,5 @@ tags:
 >
 > Displace: Pushing some of the functionality to another device, or feature, so that the one interface isn’t responsible for displaying every possible interaction.
 
-When everything appeared organized and straight-forward, the effort behind are easily not being noticed.
+When things are more organized and straight-forward, the effort behind are often less visible.
 
