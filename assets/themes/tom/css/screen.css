@@ -195,3 +195,12 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+
+
+/* james_added ============ */
+blockquote {
+	border-left: solid 3px lightgray;
+	padding-left: 15px;
+	margin-left: 15px;
+	color: darkgray;
+}
