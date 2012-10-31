@@ -19,7 +19,7 @@ I tried further to see if there's any third party apps for that, and yes there a
 
 I was going to start my own Github mobile client, and went to look for some existing API wrappers. A search on the keyword "github" brought me to this. ![ioctocat](/images/2012-04-15-ioctocat-enhancement/github-screenshot.png). 
 
-[iOctocat][1] is a paid app on App Store, yet open source and welcome contributions.  I immediately cloned it from [dbloete / ioctocat][] and see if it fits my needs... __Pretty close!__
+[iOctocat][1] is a paid app on App Store, yet open source and welcome contributions.  I immediately cloned it from [dennisreimann / ioctocat][] and see if it fits my needs... __Pretty close!__
 
 It got the Activity feed I wanted to see, list of repos of a particular user, but those numbers are missing from the list view. _(YES I JUST CARE!)_
 
@@ -33,7 +33,7 @@ Thanks for [Dennis Reimann] for creating this wonderful app, you can find my for
 
 
 ### Update: 16 Apr 2012 ###
-This feature has been merged to the [main repo][dbloete / ioctocat], so I expect everyone would see it in the next version of their app release!
+This feature has been merged to the [main repo][dennisreimann / ioctocat], so I expect everyone would see it in the next version of their app release!
 
 
 James
@@ -45,7 +45,7 @@ James
 [GitHubby]:http://itunes.apple.com/hk/app/githubby/id413672549?mt=8
 [GithubView]:http://itunes.apple.com/hk/app/githubview/id441062536?mt=8
 [1]:http://itunes.apple.com/hk/app/ioctocat/id310429782?mt=8
-[dbloete / ioctocat]:https://github.com/dbloete/ioctocat
+[dennisreimann / ioctocat]:http://dennisreimann.github.com/ioctocat/
 [Dennis Reimann]:http://twitter.com/dennisreimann
 [mystcolor / ioctocat]:https://github.com/mystcolor/ioctocat
 
